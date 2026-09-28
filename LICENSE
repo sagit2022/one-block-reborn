@@ -1,21 +1,102 @@
-MIT License
+ONE-BLOCK REBORN CUSTOM LICENSE
 
-Copyright (c) 2026 sagit2022
+Copyright (c) 2026 _sn0w1_
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Original Project: One-Block Reborn
+Original Author: _sn0w1_
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+---
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## 1. Permission to View and Modify
+
+The source code of One-Block Reborn may be publicly viewed, studied, modified,
+rewritten, and adapted for another Minecraft, NeoForge, or compatible version.
+
+You may:
+
+- view and study the source code;
+- modify the source code;
+- rewrite or adapt the source code for another version;
+- create private modified versions;
+- use modified versions privately;
+- share a modified version inside your own private/local circle of friends.
+
+## 2. Modified Versions May Not Be Publicly Distributed
+
+A modified version of One-Block Reborn may **not be publicly distributed** while
+the original One-Block Reborn project is actively maintained.
+
+This includes publishing or uploading a modified version for public download,
+publishing it on mod platforms, releasing it as a separate public mod, selling
+it, or including it in a publicly distributed modpack.
+
+Private use and sharing within a local circle of friends are permitted.
+
+## 3. Original Authorship
+
+Modifying or adapting the source code does not transfer authorship of the
+original One-Block Reborn project.
+
+You may credit yourself for your own changes, but you may not claim to be the
+original creator of One-Block Reborn or remove the original author's attribution.
+
+## 4. Twelve-Month Inactivity Rule
+
+If the original One-Block Reborn project has received no official update,
+release, or meaningful development activity for a continuous period of at least
+twelve (12) months, public distribution of modified versions becomes permitted.
+
+The twelve-month period is measured from the most recent official update,
+release, or meaningful development activity of the original project.
+
+## 5. Attribution When Public Distribution Becomes Permitted
+
+A modified version publicly distributed under Section 4 must clearly credit the
+original creator and identify the original One-Block Reborn project.
+
+At minimum, the distributor must include:
+
+**Original Project:** One-Block Reborn
+**Original Author:** _sn0w1_
+**Original Repository:** the official One-Block Reborn repository
+
+The distributor may additionally credit themselves for their own modifications,
+but may not claim to be the original creator of One-Block Reborn.
+
+## 6. License Preservation
+
+This license must remain included with any publicly distributed modified version
+permitted under Section 4. The original author's attribution must not be removed.
+
+## 7. Commercial Use
+
+Commercial distribution or sale of One-Block Reborn, including modified versions,
+is not permitted without explicit written permission from the original author.
+
+## 8. No Warranty
+
+One-Block Reborn is provided "AS IS", without warranty of any kind, express or
+implied. The original author is not responsible for damage, data loss, server
+problems, incompatibilities, or other issues resulting from use or modification.
+
+## 9. License Changes
+
+The original author may change or replace this license for future versions.
+The license included with a particular released version applies to that version,
+subject to applicable law.
+
+## 10. Plain-Language Summary
+
+**You may read, study, modify, rewrite, and privately use One-Block Reborn.**
+
+**You may not publicly distribute a modified version while the original project
+is actively maintained.**
+
+**You may share a modified version privately with your local circle of friends.**
+
+**If the original project has not received an official update, release, or
+meaningful development activity for at least twelve continuous months, public
+distribution of modified versions becomes permitted, with attribution to _sn0w1_
+and the original One-Block Reborn project.**
+
+**You may not claim to be the original creator of One-Block Reborn.**
