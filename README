@@ -1,0 +1,59 @@
+One-Block Reborn
+
+One-Block Reborn is a One Block survival game mode for Minecraft 1.21.1. Each player gets their own island and independent progression through 10 different stages.
+
+Features
+
+* A separate One Block island for every player.
+* Independent progression for each island.
+* 10 unique stages, from The Plains to The End.
+* Friends can visit your island and help break your One Block.
+* Customizable blocks with individual spawn percentages.
+* Customizable mobs with an overall mob spawn chance and individual mob percentages.
+* Customizable chests and loot with configurable percentages and item quantities.
+* Blocks that players can completely fall through are automatically excluded.
+* The One Block automatically restores itself if it is destroyed by an explosion or another non-player event.
+* Stage transition notifications show the new stage and the player who broke the final required block.
+* An in-game configuration GUI for managing the entire One Block system.
+* Russian and English language support.
+* Commands for managing player progress and configuration.
+
+Stages
+
+The mod includes 10 default stages:
+
+1. The Plains
+2. The Underground
+3. Icy Tundra
+4. Ocean
+5. Jungle Dungeon
+6. Red Desert
+7. The Nether
+8. Idyll
+9. Desolate Land
+10. The End
+
+Every stage can be enabled, disabled, renamed, and customized.
+
+Configuration
+
+The in-game configuration GUI allows you to customize island settings, stages, blocks, mobs, chests, and loot.
+
+All percentage values use a 0–100% range. For example, entering 10 means 10%.
+
+The configuration can be changed without restarting the server.
+
+Commands
+
+OP level 2 or higher can use:
+
+/oneblockreborn reload
+/oneblockreborn resetconfig
+/oneblockreborn info <player>
+/oneblockreborn stage <player> <stage>
+/oneblockreborn reset <player>
+
+Requirements
+
+* Minecraft Java Edition 1.21.1
+* NeoForge 21.1.213 or compatible 21.1.x version
